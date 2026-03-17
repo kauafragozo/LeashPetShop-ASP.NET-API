@@ -2,8 +2,10 @@
 {
     public class Roles
     {
-        public int id { get; set; }
-        public string role { get; set; }
+        public int Id { get; set; }
+        public string Role { get; set; }
+
+        public List<Usuarios> Usuarios { get; set; }
 
     }
 }

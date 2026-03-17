@@ -1,0 +1,34 @@
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.EntityFrameworkCore;
+using Leash_PetShop.Models;
+namespace Leash_PetShop.Data
+{
+    public class DataContext(IConfiguration config) : DbContext
+    {
+        private readonly IConfiguration _config = config;
+
+        public DbSet<Pacientes> Pacientes { get; set; }
+        public DbSet<Pets> Pets { get; set; }
+        public DbSet<Usuarios> Usuarios { get; set; }
+        public DbSet<Roles> Roles { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseNpgsql(_config.GetConnectionString("DefaultConnection"), optionsBuilder => optionsBuilder.EnableRetryOnFailure());
+            }
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Pacientes>().ToTable("pacientes").HasKey(p => p.Id);
+            modelBuilder.Entity<Pets>().ToTable("pets").HasKey(p => p.Id);
+            modelBuilder.Entity<Usuarios>().ToTable("usuarios").HasKey(p => p.Id);
+            modelBuilder.Entity<Roles>().ToTable("roles").HasKey(p => p.Id);
+        }
+
+
+
+    }
+}

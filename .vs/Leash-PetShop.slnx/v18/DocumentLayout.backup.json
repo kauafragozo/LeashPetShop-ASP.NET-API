@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|c:\\users\\user\\desktop\\suporte-kaua\\kau\u00E3 - pessoal\\leash-petshop\\leash-petshop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|solutionrelative:leash-petshop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|c:\\users\\user\\desktop\\suporte-kaua\\kau\u00E3 - pessoal\\leash-petshop\\leash-petshop\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|solutionrelative:leash-petshop\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|c:\\users\\user\\desktop\\suporte-kaua\\kau\u00E3 - pessoal\\leash-petshop\\leash-petshop\\models\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|solutionrelative:leash-petshop\\models\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|c:\\users\\user\\desktop\\suporte-kaua\\kau\u00E3 - pessoal\\leash-petshop\\leash-petshop\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|solutionrelative:leash-petshop\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|c:\\users\\user\\desktop\\suporte-kaua\\kau\u00E3 - pessoal\\leash-petshop\\leash-petshop\\models\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|solutionrelative:leash-petshop\\models\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|c:\\users\\user\\desktop\\suporte-kaua\\kau\u00E3 - pessoal\\leash-petshop\\leash-petshop\\leash-petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|solutionrelative:leash-petshop\\leash-petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|c:\\users\\user\\desktop\\suporte-kaua\\kau\u00E3 - pessoal\\leash-petshop\\leash-petshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|solutionrelative:leash-petshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|c:\\users\\user\\desktop\\suporte-kaua\\kau\u00E3 - pessoal\\leash-petshop\\leash-petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3FD59EC-1127-3A9F-83C8-943C0D72B71F}|Leash-PetShop\\Leash-PetShop.csproj|solutionrelative:leash-petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Leash-PetShop",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Leash-PetShop.csproj",
+              "RelativeDocumentMoniker": "Leash-PetShop\\Leash-PetShop.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Leash-PetShop.csproj",
+              "RelativeToolTip": "Leash-PetShop\\Leash-PetShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T13:23:19.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Leash-PetShop\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Data\\DataContext.cs",
+              "RelativeToolTip": "Leash-PetShop\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:56:55.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\appsettings.json",
+              "RelativeDocumentMoniker": "Leash-PetShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\appsettings.json",
+              "RelativeToolTip": "Leash-PetShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T12:41:06.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "Leash-PetShop\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Models\\Roles.cs",
+              "RelativeToolTip": "Leash-PetShop\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:14:22.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Leash-PetShop\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Models\\Usuarios.cs",
+              "RelativeToolTip": "Leash-PetShop\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:14:15.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pets.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Models\\Pets.cs",
+              "RelativeDocumentMoniker": "Leash-PetShop\\Models\\Pets.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Models\\Pets.cs",
+              "RelativeToolTip": "Leash-PetShop\\Models\\Pets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:13:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pacientes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Models\\Pacientes.cs",
+              "RelativeDocumentMoniker": "Leash-PetShop\\Models\\Pacientes.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Models\\Pacientes.cs",
+              "RelativeToolTip": "Leash-PetShop\\Models\\Pacientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:13:50.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Suporte-Kaua\\KAU\u00C3 - PESSOAL\\Leash-PetShop\\Leash-PetShop\\Program.cs",
               "RelativeDocumentMoniker": "Leash-PetShop\\Program.cs",

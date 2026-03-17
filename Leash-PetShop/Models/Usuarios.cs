@@ -2,11 +2,12 @@
 {
     public class Usuarios
     {
-        public int id { get; set; }
-        public string user_name { get; set; }
-        public string user_email { get; set; }
-        public string user_pwd { get; set; }
-        public string user_role { get; set; }
+        public int Id { get; set; }
+        public string UserName { get; set; }
+        public string UserEmail { get; set; }
+        public string Userpwd { get; set; }
+        public string UserRoleId { get; set; }
+        public Roles Role { get; set; }
 
     }
 }
