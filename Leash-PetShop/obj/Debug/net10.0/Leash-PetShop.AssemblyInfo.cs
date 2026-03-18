@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Leash-PetShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4579456136e236f553a36bd9fac7d685f541e7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f051250ef25b668ac68770f930f2de38c9da615a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Leash-PetShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Leash-PetShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

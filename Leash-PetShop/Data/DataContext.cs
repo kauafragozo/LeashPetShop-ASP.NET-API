@@ -35,7 +35,7 @@ namespace Leash_PetShop.Data
                 entity.HasKey(p => p.Id);
                 entity.HasOne(p => p.Dono)
                 .WithMany(d => d.Pets)
-                .HasForeignKey(p => p.Id);
+                .HasForeignKey(p => p.DonoId);
                 
             });
 
