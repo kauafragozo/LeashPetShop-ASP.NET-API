@@ -6,7 +6,7 @@
         public string UserName { get; set; }
         public string UserEmail { get; set; }
         public string PasswordHash { get; set; }
-        public string UserRoleId { get; set; }
+        public int UserRoleId { get; set; }
         public Roles Role { get; set; }
 
     }

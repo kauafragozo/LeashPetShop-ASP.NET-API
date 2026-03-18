@@ -11,7 +11,7 @@
         public int Idade { get; set; }
 
 
-        public List<Pets> Pets { get; set; }
+        public List<Pets> Pets { get; set; }= new();
 
     }
 }
